@@ -1,0 +1,405 @@
+{
+    "question_type": "0",
+    "questions": [
+        {
+            "all_or_nothing_grading": false,
+            "defaultFeedback": "",
+            "last_modified": 1675217987.0,
+            "multiple_correct": false,
+            "multiple_selections": false,
+            "show_answer_when_incorrect": false,
+            "tags": [],
+            "type": 0,
+            "version": "1.5",
+            "question": "On gadm.org, download the shapefile for \"Afghanistan\" and look at the level 1 DBF file. In the shapefile what type of data does the \"NAME_1\" column hold?",
+            "description": "TDS-W5-Q6-0",
+            "choices": [
+                {
+                    "feedback": "",
+                    "score": 1.0,
+                    "text": "1"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "2"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "3"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "5"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "4"
+                }
+            ]
+        },
+        {
+            "all_or_nothing_grading": false,
+            "defaultFeedback": "",
+            "last_modified": 1675217987.0,
+            "multiple_correct": false,
+            "multiple_selections": false,
+            "show_answer_when_incorrect": false,
+            "tags": [],
+            "type": 0,
+            "version": "1.5",
+            "question": "On gadm.org, download the shapefile for \"Albania\" and look at the level 1 DBF file. In the shapefile what type of data does the \"NAME_1\" column hold?",
+            "description": "TDS-W5-Q6-1",
+            "choices": [
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "4"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "2"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "3"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "5"
+                },
+                {
+                    "feedback": "",
+                    "score": 1.0,
+                    "text": "1"
+                }
+            ]
+        },
+        {
+            "all_or_nothing_grading": false,
+            "defaultFeedback": "",
+            "last_modified": 1675217987.0,
+            "multiple_correct": false,
+            "multiple_selections": false,
+            "show_answer_when_incorrect": false,
+            "tags": [],
+            "type": 0,
+            "version": "1.5",
+            "question": "On gadm.org, download the shapefile for \"Algeria\" and look at the level 1 DBF file. In the shapefile what type of data does the \"NAME_1\" column hold?",
+            "description": "TDS-W5-Q6-2",
+            "choices": [
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "3"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "2"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "4"
+                },
+                {
+                    "feedback": "",
+                    "score": 1.0,
+                    "text": "1"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "5"
+                }
+            ]
+        },
+        {
+            "all_or_nothing_grading": false,
+            "defaultFeedback": "",
+            "last_modified": 1675217987.0,
+            "multiple_correct": false,
+            "multiple_selections": false,
+            "show_answer_when_incorrect": false,
+            "tags": [],
+            "type": 0,
+            "version": "1.5",
+            "question": "On gadm.org, download the shapefile for \"Andorra\" and look at the level 1 DBF file. In the shapefile what type of data does the \"NAME_1\" column hold?",
+            "description": "TDS-W5-Q6-3",
+            "choices": [
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "5"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "2"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "3"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "4"
+                },
+                {
+                    "feedback": "",
+                    "score": 1.0,
+                    "text": "1"
+                }
+            ]
+        },
+        {
+            "all_or_nothing_grading": false,
+            "defaultFeedback": "",
+            "last_modified": 1675217987.0,
+            "multiple_correct": false,
+            "multiple_selections": false,
+            "show_answer_when_incorrect": false,
+            "tags": [],
+            "type": 0,
+            "version": "1.5",
+            "question": "On gadm.org, download the shapefile for \"Angola\" and look at the level 1 DBF file. In the shapefile what type of data does the \"NAME_1\" column hold?",
+            "description": "TDS-W5-Q6-4",
+            "choices": [
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "4"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "3"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "5"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "2"
+                },
+                {
+                    "feedback": "",
+                    "score": 1.0,
+                    "text": "1"
+                }
+            ]
+        },
+        {
+            "all_or_nothing_grading": false,
+            "defaultFeedback": "",
+            "last_modified": 1675217987.0,
+            "multiple_correct": false,
+            "multiple_selections": false,
+            "show_answer_when_incorrect": false,
+            "tags": [],
+            "type": 0,
+            "version": "1.5",
+            "question": "On gadm.org, download the shapefile for \"Argentina\" and look at the level 1 DBF file. In the shapefile what type of data does the \"NAME_1\" column hold?",
+            "description": "TDS-W5-Q6-5",
+            "choices": [
+                {
+                    "feedback": "",
+                    "score": 1.0,
+                    "text": "1"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "4"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "3"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "2"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "5"
+                }
+            ]
+        },
+        {
+            "all_or_nothing_grading": false,
+            "defaultFeedback": "",
+            "last_modified": 1675217987.0,
+            "multiple_correct": false,
+            "multiple_selections": false,
+            "show_answer_when_incorrect": false,
+            "tags": [],
+            "type": 0,
+            "version": "1.5",
+            "question": "On gadm.org, download the shapefile for \"Armenia\" and look at the level 1 DBF file. In the shapefile what type of data does the \"NAME_1\" column hold?",
+            "description": "TDS-W5-Q6-6",
+            "choices": [
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "5"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "3"
+                },
+                {
+                    "feedback": "",
+                    "score": 1.0,
+                    "text": "1"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "4"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "2"
+                }
+            ]
+        },
+        {
+            "all_or_nothing_grading": false,
+            "defaultFeedback": "",
+            "last_modified": 1675217987.0,
+            "multiple_correct": false,
+            "multiple_selections": false,
+            "show_answer_when_incorrect": false,
+            "tags": [],
+            "type": 0,
+            "version": "1.5",
+            "question": "On gadm.org, download the shapefile for \"Australia\" and look at the level 1 DBF file. In the shapefile what type of data does the \"NAME_1\" column hold?",
+            "description": "TDS-W5-Q6-7",
+            "choices": [
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "4"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "5"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "3"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "2"
+                },
+                {
+                    "feedback": "",
+                    "score": 1.0,
+                    "text": "1"
+                }
+            ]
+        },
+        {
+            "all_or_nothing_grading": false,
+            "defaultFeedback": "",
+            "last_modified": 1675217987.0,
+            "multiple_correct": false,
+            "multiple_selections": false,
+            "show_answer_when_incorrect": false,
+            "tags": [],
+            "type": 0,
+            "version": "1.5",
+            "question": "On gadm.org, download the shapefile for \"Austria\" and look at the level 1 DBF file. In the shapefile what type of data does the \"NAME_1\" column hold?",
+            "description": "TDS-W5-Q6-8",
+            "choices": [
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "4"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "2"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "5"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "3"
+                },
+                {
+                    "feedback": "",
+                    "score": 1.0,
+                    "text": "1"
+                }
+            ]
+        },
+        {
+            "all_or_nothing_grading": false,
+            "defaultFeedback": "",
+            "last_modified": 1675217987.0,
+            "multiple_correct": false,
+            "multiple_selections": false,
+            "show_answer_when_incorrect": false,
+            "tags": [],
+            "type": 0,
+            "version": "1.5",
+            "question": "On gadm.org, download the shapefile for \"Bahrain\" and look at the level 1 DBF file. In the shapefile what type of data does the \"NAME_1\" column hold?",
+            "description": "TDS-W5-Q6-9",
+            "choices": [
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "2"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "3"
+                },
+                {
+                    "feedback": "",
+                    "score": 1.0,
+                    "text": "1"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "4"
+                },
+                {
+                    "feedback": "",
+                    "score": 0.0,
+                    "text": "5"
+                }
+            ]
+        }
+    ]
+}
